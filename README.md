@@ -1,21 +1,12 @@
 # animation-test
+ブログ用成果物
+[AnimateCC(Flash)で「Animated SVG Exporter」を使ってSVGアニメーションを作成した話](https://jskym.qrunch.io/entries/VNckIAAqyT5PRhec)
 
-> A Vue.js project
+## フレームワーク
+Vue.js (vue-cli2を使用)
 
-## Build Setup
+## ツール
+AnimateCC
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## URL
+[成果物](https://vibrant-fermat-824d9e.netlify.com/#/)
